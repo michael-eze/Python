@@ -1,2 +1,2 @@
 # Python
-python fr bro
+All my Python projects
